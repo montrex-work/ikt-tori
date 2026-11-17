@@ -1,2 +1,6 @@
 # ikt-töri
-ikt töri jatekos feladat
+
+### Feladat megosztás:
+- Weboldal: Lili
+- Docx: Qbik
+- PPT: Mateo

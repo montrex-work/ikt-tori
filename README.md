@@ -8,7 +8,9 @@ The project combines an educational website with supporting learning materials a
 
 ## Repository Structure
 ```task/``` - Contains the original documents and instructions provided by the teacher. These files serve as the source material and explain the requirements of the project.
+
 ```documents/``` - Contains the finished project deliverables, including the final PowerPoint presentation (.pptx) and Word document (.docx).
+
 ```(root)``` - Contains the HTML website and its supporting files, which make up the interactive learning game.
 Website Hosting
 
